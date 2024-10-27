@@ -19,21 +19,29 @@ Feature Analysis: Investigate the impact of different features and data preproce
 Optimization and Deployment: Optimize the models for better accuracy and computational efficiency, and explore potential deployment strategies for real-time weather forecasting applications.
 
 # ALGORITHMS USED
+
 - LENEAR REGRESSION
   Output ![image](https://github.com/user-attachments/assets/a6819f32-db95-4473-a554-a02c623af988)
   
 - lOGISTIC REGRESSION
-  Output ![image](https://github.com/user-attachments/assets/03fc5658-c3b4-49e8-9524-1671551925bd)
+  Output
+
+  ![image](https://github.com/user-attachments/assets/03fc5658-c3b4-49e8-9524-1671551925bd)
   
 - K-Nearest Neighbor
-  Output ![image](https://github.com/user-attachments/assets/7503e05a-5ee6-4642-8ecc-a544f6a82fde) 
+  Output
+
+   ![image](https://github.com/user-attachments/assets/7503e05a-5ee6-4642-8ecc-a544f6a82fde) 
   
 - RANDOM FOREST
-  Output ![image](https://github.com/user-attachments/assets/6a33e704-2e80-4e25-8ac1-a491439bcf27)
+  Output
+
+  ![image](https://github.com/user-attachments/assets/6a33e704-2e80-4e25-8ac1-a491439bcf27)
 
 
   
   COMPARATIVE ANALYSIS ( Graph )
+  
 ![image](https://github.com/user-attachments/assets/fe0ad330-deee-412b-a074-4c4108681343)
 
 
