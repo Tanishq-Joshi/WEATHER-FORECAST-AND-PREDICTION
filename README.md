@@ -45,4 +45,5 @@ Optimization and Deployment: Optimize the models for better accuracy and computa
 ![image](https://github.com/user-attachments/assets/fe0ad330-deee-412b-a074-4c4108681343)
 
 
-
+FOR OUTPUT AND WORKING MODEL CLick on the Colab Link Below
+https://colab.research.google.com/drive/1AWZoXgGMzT4Tv3cZABRhS1Xsg7x2D0E-?usp=sharing#scrollTo=RCsmhp7vMEGU 
