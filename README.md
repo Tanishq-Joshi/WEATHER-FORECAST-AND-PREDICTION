@@ -12,7 +12,7 @@ Collect and Preprocess Data: Gather a comprehensive dataset of historical weathe
 
 Model Development: Explore and implement various machine learning algorithms like regression models, to build predictive models.
 
-Performance Evaluation: Assess the accuracy of the developed models using appropriate metrics such as mean absolute error (MAE) and root mean square error (RMSE), and compare the results with traditional forecasting methods.
+Performance Evaluation: Assess the accuracy of the developed models using appropriate metrics such as mean absolute error (MAE), root mean square error (RMSE) mean square error(MSE) and R^2 error, and compare the results with traditional forecasting methods.
 
 Feature Analysis: Investigate the impact of different features and data preprocessing techniques on the model's performance, aiming to identify the most significant factors influencing weather predictions.
 
